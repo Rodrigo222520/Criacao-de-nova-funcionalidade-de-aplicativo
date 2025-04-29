@@ -1,0 +1,21 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding: 5px 15px;
+    padding-top: 25px;
+}
+
+#diminuirImagem{
+    width: 75px;
+}
